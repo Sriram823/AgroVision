@@ -2166,3 +2166,12 @@ ul {
 .social-buttons .icon-content a[data-social="youtube"] ~ .tooltip {
   background-color: #ff0000;
 }
+
+
+#container3D canvas {
+  width: 100vw !important;
+  height: 100vh !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
